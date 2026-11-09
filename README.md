@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shruti Singh 👋
+
+I'm an MCA student interested in software development.
+
+- Currently learning programming and web development.
+- Interested in C, Java, Python and React.js.
+- Working on improving my coding skills.
+- I enjoy learning new technologies and building projects.
+
+Thanks for visiting my profile!
 
 <!--
 **shrutisingh003/shrutisingh003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
